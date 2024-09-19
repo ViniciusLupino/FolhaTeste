@@ -251,3 +251,4 @@ C:\Users\SENAI3EM\Desktop\Testes\CustoFuncionarioApp\CustoFuncionarioApp\obj\Deb
 C:\Users\SENAI3EM\Desktop\Testes\CustoFuncionarioApp\CustoFuncionarioApp\obj\Debug\net8.0\CustoFuncionarioApp.pdb
 C:\Users\SENAI3EM\Desktop\Testes\CustoFuncionarioApp\CustoFuncionarioApp\obj\Debug\net8.0\CustoFuncionarioApp.genruntimeconfig.cache
 C:\Users\SENAI3EM\Desktop\Testes\CustoFuncionarioApp\CustoFuncionarioApp\obj\Debug\net8.0\ref\CustoFuncionarioApp.dll
+C:\Users\SENAI3EM\Desktop\Testes\CustoFuncionarioApp\CustoFuncionarioApp\obj\Debug\net8.0\CustoFuncionarioApp.sourcelink.json

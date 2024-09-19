@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuncionarioTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85045bc6bb2e004c9f3a4a7b9322b95fc93f1d2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuncionarioTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuncionarioTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

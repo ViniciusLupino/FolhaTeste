@@ -12,7 +12,7 @@ namespace CustoFuncionarioApp.Controllers
 {
     public class FuncionariosController : Controller 
     {
-        public static decimal Salario(decimal salario, decimal despesa, decimal beneficio)
+        public static float Salario(float salario, float despesa, float beneficio)
         {
             var funcionario = new Funcionario();
             salario = salario - despesa + beneficio;
